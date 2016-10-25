@@ -103,10 +103,10 @@ You can also tell selenium server which port need to be use or what will be your
 
 ## Notes:
 1. Mac and windows support is available.
-2. Currently only support chrome browser.
+2. Currently only supports Chrome browser.
 3. Selenium 2.53.1 and ChromeDriver 2.24 is been used.
 4. Feel free to contribute or create an issue.
-5. The user will not be able to swap between PHPUnit and Selenium who are below Laravel 5.3.
+5. The user will not be able to swap between PHPUnit and Selenium if using a older version than Laravel 5.3.
 6. We made changelog as [wiki](https://github.com/Modelizer/Selenium/wiki/Change-log).
 7. If a virtual machine is being used such as VirtualBox (Vagrant, Homestead), a framebuffer is needed:
  
